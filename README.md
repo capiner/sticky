@@ -1,2 +1,1 @@
-# sticky
-Capiner Sticky
+# Capiner Sticky
